@@ -1,0 +1,17 @@
+{
+  "name": "undergraduate research projects about gig workers",
+  "description": "Based on existing climatic parameters, we aim to estimate the health costs incurred by food delivery riders due to exposure to extreme weather; by integrating shifts in supply and demand curves, we intend to propose a fairer and more effective subsidy scheme..",
+  "steps": [
+    { "label": "Idea Brainstorm",   "status": "current" },
+    { "label": "Running Exp",       "status": "pending" },
+    { "label": "Results",           "status": "pending" },
+    { "label": "Paper Drafting",    "status": "pending", "link": "https://www.overleaf.com/project/xxx" }
+  ],
+  "timeline": [
+    { "label": "Abstract Due",   "date": "2026-05-10" },
+    { "label": "Full Paper Due", "date": "2026-05-17" },
+    { "label": "Reviewing",      "date": "2026-06-01" },
+    { "label": "Review Release", "date": "2026-07-15" },
+    { "label": "Decision",       "date": "2026-08-01" }
+  ]
+}
